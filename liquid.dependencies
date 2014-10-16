@@ -1,8 +1,8 @@
 [
   {
-    "remote": "gh",
-    "repository": "STS-Dev-Team/arm-eabi-4.4.3",
-    "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.4.3",
-    "revision": "master"
+    "remote": "lm",
+    "repository": "android_prebuilt",
+    "target_path": "prebuilt",
+    "revision": "cm-11.0"
   }
 ]
